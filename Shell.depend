@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1539432346 source:/home/ahmed/Downloads/acmProblems/Shell/main.cpp
+	<iostream>
+	<sys/types.h>
+	<stdlib.h>
+	<bits/stdc++.h>
+	<sys/types.h>
+	<signal.h>
+	<unistd.h>
+	<sys/wait.h>
+	<stdio.h>
+	<sys/types.h>
+	<signal.h>
+	<ctime>
+
